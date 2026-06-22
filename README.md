@@ -25,6 +25,14 @@ The game consists of two chapters connected through a story-driven progression s
 
 Players must locate three special items and revive a skeleton spirit. The dungeon contains environmental puzzles, hidden objects, breakable doors, and time-based challenges. Candles can be lit to gain additional time before the countdown reaches zero.
 
+### Objectives
+
+* Find three relics
+* Revive the skeleton spirit
+* Manage the countdown timer
+* Discover hidden objects
+* Escape the dungeon
+
 ## Chapter 2 - The Village
 
 After escaping the dungeon, players obtain a weapon and begin their main mission. This chapter introduces combat mechanics, enemy encounters, environmental interactions, and the Rage Bar system.
@@ -47,6 +55,19 @@ Each enemy features unique behaviors and challenges.
 * Death and Respawn System
 * Physics Interactions
 
+## Lose Conditions
+
+Players can fail by:
+
+* Running out of time in the dungeon
+* Falling from dangerous heights
+* Being defeated by enemies
+* Triggering environmental hazards
+
+## Gameplay Video
+
+[Watch Gameplay Video](https://drive.google.com/file/d/167VaU4UTlDSlvPmr-UhCpJX-eihtpUk1/view?usp=sharing)
+
 ## Gallery
 
-Gameplay screenshots and videos will be added here.
+Gameplay screenshots will be added here.
