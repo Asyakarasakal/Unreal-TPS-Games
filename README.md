@@ -70,4 +70,4 @@ Players can fail by:
 
 ## Gallery
 
-Gameplay screenshots will be added here.
+
